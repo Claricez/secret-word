@@ -1,0 +1,30 @@
+html, body{
+  height: 100%;
+}
+
+body{
+  
+  font-family: 'IM Fell DW Pica', serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(180deg,rgba(116, 28, 151) 0%, rgba(39, 11, 50) 100%);
+}
+
+button{
+  background: #9952B6;
+  color: white;
+  padding: 0 45px;
+  border: 2px solid white;
+  border-radius: 25px;
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.em;
+  cursor: pointer;
+  transform-origin: .4s;
+  font-family: 'IM Fell DW Pica', serif;
+}
+
+button:hover{
+  background: #814699;
+}

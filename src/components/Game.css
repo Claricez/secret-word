@@ -1,5 +1,5 @@
 .game h1{
-    font-weight: 2.5em;
+    font-size: 2.5em;
     
 }
 
@@ -10,49 +10,45 @@
 
 .tip span{
     color: #DDA0DD;
-    border-radius: 20px;
-    
+
 }
 
 
 .wordContainer{
     margin: 1.5em;
-    padding: 1.5em;
+    padding: 1.5em ;
     border: 20px solid #FF00FF;
     display: flex;
     
-    
 }
 
-.letter, .blankSquare{
+.letter, .blankSquare {
     font-size: 70px;
     line-height: 1.5;
-    border: 3px solid #0000;
+    border: 3px solid black;
     height: 100px;
-    width: 50px;
+    width: 100px;
     text-transform: uppercase;
-    background-color: white;
+    background-color: #ffff;
     color: black;
     font-weight: bold;
-    text-align: center;
-    
-    
+       
    
     
 }
 
-.letterContainer p{
+.letterContainer p {
     margin-bottom: 1.2em;
     
 }
 
-.letterContainer form{
+.letterContainer form {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.letterContainer input{
+.letterContainer input {
     height: 50px;
     width: 50px;
     font-size: 2em;

@@ -4,4 +4,4 @@
 
 ## Objetivo do jogo 🎲
 
->O usuário deve descobrir qual a palavra secreta, com um número limitado de tentativas e uma dica que relaciona a palavra com a sua categoria. Além disso, o número de    >acertos é somado. 
+>O usuário deve descobrir qual a palavra secreta, com um número limitado de tentativas e uma dica que relaciona a palavra com a sua categoria. Além disso, o número de    acertos é somado. 

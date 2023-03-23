@@ -1,5 +1,6 @@
 export const wordList = {
-    cantor:["Taylor Swift", "Selena Gomez", "The weekend"],
-    país:["Brasil", "Itália", "Ecuador", "Espanha"],
-    fruta:["Laranja", "Melão", "Kiwi", "Melancia"]
+    cantor:["TaylorSwift", "SelenaGomez", "Theweekend", "JungKook", "Jin" ],
+    país:["Brasil", "Italia", "Ecuador", "Espanha", "Venezuela", "Peru", "Chile", "Franca"],
+    fruta:["Laranja", "Melao", "Kiwi", "Melancia", "Banana", "Pera", "Manga"], 
+    filme: ["ToyStory", "JohnWick", "Django"],
 }
